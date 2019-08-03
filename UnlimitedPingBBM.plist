@@ -1,0 +1,10 @@
+{
+	Filter = {
+		Bundles = (
+			"com.blackberry.bbm1",
+			"com.blackberry.bbm2",
+			"com.blackberry.bbm3",
+			"net.izona.bbm2"
+		);
+	};
+}

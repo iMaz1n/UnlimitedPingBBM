@@ -1,0 +1,9 @@
+Package: co.izona.unlimitedpingbbm
+Name: Unlimited Ping BBM
+Depends: mobilesubstrate
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: Removes the 3 ping limit and send unlimited ping as you want! No options to configure. Follow us @iZONAOX
+Maintainer: Mazen Hrazi
+Author: Mazen Hrazi
+Section: Tweaks
